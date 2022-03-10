@@ -1,2 +1,3 @@
-# CLI-Diary
-A simple diary entry program
+# CLI - Diary
+
+<img src = "Misc\Diary.jpg"/>

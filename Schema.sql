@@ -12,12 +12,3 @@ CREATE DATABASE "Diary"
 
 COMMENT ON DATABASE "Diary"
     IS 'CLI Diary Database';
-
--- Table: public.login
--- DROP TABLE IF EXISTS public.login;
-
-CREATE TABLE IF NOT EXISTS public.login
-(
-    username text COLLATE pg_catalog."default" NOT NULL,
-    password text COLLATE pg_catalog."default" NOT NULL
-)

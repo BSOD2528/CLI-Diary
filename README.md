@@ -9,7 +9,7 @@ A simple diary entry program using python and postgresql. The following showcase
 - Multiple users can journal entries
 - Add, Edit and Remove entries
 
-NOTE : The multiple user login and other stuff are yet to be done completely. I'm still figuring out how that process works for now. So please do bare with me until the entire program is finished.
+NOTE : Multiple User accessability is still buggy. Please do be patient until then. Thank you!
 
 ## Setup :
 
